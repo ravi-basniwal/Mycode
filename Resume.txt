@@ -1,0 +1,90 @@
+﻿RAVI
+I am a keen learner and passionate about coding and development. I am also a team player, enthusiastic to 
+contribute to the overall development of the team.
+	V.P.O Dhani Garan,Barwala
+Hisar, Haryana-125121
+83078-08989
+basniwal2000nandu@gmail.com
+linkedin.com/in/ravi-basniwal
+github.com/ravi-basniwal
+	EDUCATION
+National Institute of Technology Kurukshetra, Kurukshetra, Haryana, India 
+
+
+B.Tech in Electronics and Communication
+Aug  2019 - PRESENT
+CGPA :9.492 (upto 3 th semester)
+BARWALA PUBLIC SR SEC SCHOOL, BARWALA, HISAR
+
+
+12th HBSE , Non – Medical
+2017 - 2018
+Percentage : 95.2%
+Sant and Hari High School, Dhigtana, Hisar
+
+
+10th HBSE 
+2015 - 2016
+Percentage : 96.4%
+I secured top rank in 99.99 %
+PROJECTS
+
+
+Blood Buddy:
+Website for fulfilling the need for blood in emergency situations. It helps in finding nearby donors. Developed using HTML, CSS and Js
+
+
+Snake Game:
+Made an old Snake Mobile game in a WebApp version using HTML, CSS, and Javascript.
+
+
+
+
+
+
+	SKILLS
+
+
+Languages : 
+
+
+C, C++, HTML, CSS, Javascript.
+
+
+Courses Completed :
+
+
+1.  Introduction to C++ 
+2. Data Structures and Algorithms.
+
+
+Others : 
+
+
+ Competitive Programming,Object Oriented Programming,Bootstrap.
+AWARDS / ACHIEVEMENTS
+
+
+Maximum rating on various 
+coding platforms :
+
+
+CodeChef : 1608(3 star) 
+
+
+Handle : nanduravi
+
+
+Global Rank  1900  in CodeChef 
+in  Aug  Long Challenge 2021.
+POSITIONS OF RESPONSIBILITY
+E.M.R Club, NIT Kurukshetra — Organizer Team
+Sep 2019 - Sep 2019 
+
+
+I was a member of the organizing team of EMR for the Robo Soccer event.
+COLOURS, NIT Kurukshetra
+Oct 2019
+
+
+I was a member of the organizing team of the Treasure Hunt event.
